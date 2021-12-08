@@ -1,0 +1,43 @@
+Species ,Endpoint ,"Concentration
+(mg Cl-/L) ",Reference
+"Pimephales promelas
+Fathead minnow","96-hour LC50
+(geomean)",4223,Mount et al 1997; Birge et al 1985
+"Lepomis macrochirus
+Bluegill sunfish","96-hour LC50
+(geomean)",5272,Birge et al. 1985; Trama 1954
+"Cyprinella leedsi
+Bannerfin shiner",96-hour LC50 ,6070,Environ 2009
+"Oncorhynchus mykiss
+Rainbow trout","96-hour LC50
+(geomean)",8634,"Elphick et al 2011;
+Vosyliene et al. 2006"
+"Gambusia affinis
+Mosquito fish",96-hour LC50 ,9099,Al-Daham & Bhatti 1977
+"Gasterosteus aculeatus
+Threespine stickleback",96-hour LC50 ,10200,Garibay & Hall 2004
+"Anguilla rostrata
+American eel",96-hour LC50 ,13012,Hinton and Eversol 1979
+"Ambystoma maculatum
+Spotted salamander",96-hour LC50 ,1178,Collins & Russell 2009
+"Pseudacris triseriata feriarum
+Chorus frog",96-hour LC50 ,2320,Garibay & Hall 2004
+"Lithibates sylvatica
+(previously Rana sylvatica)
+Wood frog","96-hour LC50
+(geomean)",2716,"Sanzo & Hecnar, 2006;
+Collins & Russell 2009;
+Jackman 2010"
+"Pseudacris crucifer
+Spring peeper",96-hour LC50 ,2830,Collins & Russell 2009
+"Rana clamitans
+Green frog",96-hour LC50 ,3109,Collins & Russell 2009
+"Rana temporaria
+Common frog",96-hour LC50 ,3140,Viertel 1999
+"Lithibates pipiens
+(previously Rana pipiens)
+Leopard frog",96-hour LC50 ,3385,Jackman 2010
+"Bufo americanus
+American toad",96-hour LC50 ,3926,Collins & Russell 2009
+"Rana catesbeiana
+Bullfrog",96-hour LC50 ,5846,Environ 2009
