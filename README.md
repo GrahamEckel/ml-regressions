@@ -1,7 +1,7 @@
 # ml-regressions
 A bunch of regressions in Python and R from my studies and other projects
 
-What has been completed in this project:
+Completed so far:
 - R/Py: SLR (linearized with Gradient Descent in Py)
 - R/Py: Logistic (linearized with Gradient Descent in Py)
 - R: MLR
